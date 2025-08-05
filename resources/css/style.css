@@ -1,6 +1,7 @@
 body {
     background-color: black;
     text-align: center;
+     
 }
 
 h1 {
@@ -27,4 +28,9 @@ p {
     font-family: Verdana, sans-serif;
     font-size: 21px;
     color: grey;
+}
+
+footer {
+    color: grey;
+    text-align: right;
 }
